@@ -1,0 +1,78 @@
+html>body {
+    margin: 0.5px;
+
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('imagenes/collagePelis.jpg');
+}
+
+#cabecera {
+    height: 130px;
+    background-color: red;
+    border: solid 10px;
+}
+
+#cabecera, h1 {
+    font-size: 70px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
+
+}
+
+#footer {
+    padding: 5px;
+    border: solid 1px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    background-color: grey;
+}
+
+/* - - - - - - - - - - - - - - - */
+
+
+
+#formulariologin {
+
+    color: white;
+
+    text-align: center;
+    margin-top: 10%;
+}
+
+input {
+    text-align: center;
+
+}
+
+
+
+#botonlogin {
+    height: 50px;
+    width: 110px;
+}
+
+.casilla {
+
+    width: 400px;
+    height: 40px;
+}
+
+#divdestino {
+
+
+    height: 30px;
+    margin-top: 1%;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+#divvolver {
+
+
+    margin-top: 1%;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
